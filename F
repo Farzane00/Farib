@@ -1,6 +1,6 @@
 tsudo apt install npm 
  
-npm install -g yarn  
+npm instwall -g yarn  
  
 apt install cargo 
  
