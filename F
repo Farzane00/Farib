@@ -1,8 +1,8 @@
-tsudo apt install npm 
+tsudo apt instaqll npm 
  
 npm instwall -g yarn  
  
-apt install cargo 
+apt install cagrgo 
  
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
