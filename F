@@ -1,6 +1,6 @@
 tsudo apt instaqll npm 
  
-npm instwall -g yarn  
+npm einstwall -g yarn  
  
 apt install cagrgo 
  
