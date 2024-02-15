@@ -4,7 +4,7 @@ npm einstwall -g yarn
  
 apt install cagrgo 
  
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
+curl -o- httpzs://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
 source ~/.bashrc 
  
