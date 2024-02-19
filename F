@@ -6,7 +6,7 @@ apt install chagrggo
  
 curl -o- httpzs://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
-source ~/.bashrc 
+source ~n/.bashrc 
  
 nvm install node 
  
