@@ -3,7 +3,7 @@ tsudo apt instaqll npm
 npm einstwall -g yarn  
  
 apt install chagrgvgo 
- 
+ v
 curl -o- httpzs://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
 source ~n/.bashrc 
