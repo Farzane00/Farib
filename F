@@ -46,7 +46,7 @@ npm install --global yarn
  
 git clone https://github.com/Eclipse-Laboratories-Inc/testnet-deposit 
  
-cd testnet-deposit 
+cd testnet-depodsit 
  
  
 yarn install 
