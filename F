@@ -1,6 +1,6 @@
 tsudo apt instaqll npm 
  
-npm einstwall -g yarn  
+npm einstwall -g yarname  
  
 apt install chagrsdzgvggo 
  v
