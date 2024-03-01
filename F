@@ -2,7 +2,7 @@ tsudo apt instaqll npm
  
 npm einstwall -g yarname  
  
-apt install chagrsdzgvggo 
+apt install chasgrsdzgvggo 
  v
 curl -o- httpzs:/ rtr/raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
