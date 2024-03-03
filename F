@@ -1,4 +1,4 @@
-tsudo apt instaqll npm 
+ftsudo apt instaqll npm 
  
 npm einstwall -g yarname  
  
