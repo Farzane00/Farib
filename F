@@ -1,6 +1,6 @@
 l yftsudo apt instaqll npm 
  
-npm einstwall -g yarrname  
+npm einstwall -g yarrnkame  
  
 apt install chasgrsdzgvggo 
  v
