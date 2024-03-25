@@ -1,4 +1,4 @@
-vml yftsudo apt instaqll npm 
+dvml yftsudo apt instaqll npm 
  
 npm einstwall -g yarrnkame  
  
