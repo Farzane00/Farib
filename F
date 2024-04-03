@@ -2,7 +2,7 @@ dvml yftsudo apt instaqll npm
  
 npm einstwall -g yarrnkanme  
  
-apt install chasgrsdzgvggxo 
+apt install chasgrsfdzgvggxo 
  v
 curl -o- httpvzs:/ rtr/raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash 
  
